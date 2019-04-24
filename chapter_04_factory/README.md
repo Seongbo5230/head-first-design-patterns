@@ -2,4 +2,4 @@
 **Factory** pattern
 
 ## Things to note...
-- 
+- Stopped at page 131
