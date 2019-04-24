@@ -6,3 +6,5 @@
 - This pattern provides an object design where subjects and observers are loosely coupled
 - Strive for loosely coupled designs between objects that interact
 - Loosely coupled designes allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects
+- Don't depend on a specific order of notification for your Observers
+- Subjects (Observables) knows nothing about them, other than that they implement the Observer interface

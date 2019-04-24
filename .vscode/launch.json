@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - InputTest",
+      "request": "launch",
+      "mainClass": "InputTest"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StarbuzzCoffee",
+      "request": "launch",
+      "mainClass": "StarbuzzCoffee"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - WeatherStation",
+      "request": "launch",
+      "mainClass": "WeatherStation"
+    }
+  ]
+}
